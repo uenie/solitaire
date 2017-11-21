@@ -1,0 +1,330 @@
+fileFormatVersion: 2
+guid: 337ad694a8d20df418e945ba7ac19508
+timeCreated: 1509459171
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Piki
+    21300002: Chervy
+    21300004: Bubny
+    21300006: Trefy
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 300
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Piki
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 158
+        width: 104
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 71}
+        - {x: -54, y: 30}
+        - {x: -54, y: -69}
+        - {x: 45, y: -69}
+        - {x: 54, y: -66}
+        - {x: 54, y: 27}
+        - {x: 6, y: 71}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chervy
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 159
+        width: 116
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: 70}
+        - {x: -55, y: 55}
+        - {x: -57, y: 50}
+        - {x: -58, y: 46}
+        - {x: -58, y: 28}
+        - {x: -48, y: 6}
+        - {x: -41, y: -6}
+        - {x: -2, y: -68}
+        - {x: 18, y: -68}
+        - {x: 62, y: 22}
+        - {x: 62, y: 65}
+        - {x: 54, y: 70}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bubny
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 6
+        width: 100
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 66}
+        - {x: -5, y: 66}
+        - {x: -54, y: 11}
+        - {x: -54, y: -7}
+        - {x: -20, y: -60}
+        - {x: -1, y: -71}
+        - {x: 8, y: -71}
+        - {x: 50, y: -19}
+        - {x: 50, y: 10}
+        - {x: 49, y: 18}
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Trefy
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 7
+        width: 132
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 67}
+        - {x: -67, y: 36}
+        - {x: -67, y: -70}
+        - {x: 51, y: -70}
+        - {x: 69, y: -44}
+        - {x: 69, y: 12}
+        - {x: 43, y: 67}
+      physicsShape: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -86, y: -9}
+      - {x: -95, y: -9}
+      - {x: -144, y: -64}
+      - {x: -144, y: -82}
+      - {x: -110, y: -135}
+      - {x: -91, y: -146}
+      - {x: -82, y: -146}
+      - {x: -40, y: -94}
+      - {x: -40, y: -65}
+      - {x: -41, y: -57}
+    - - {x: 115, y: -27}
+      - {x: 89, y: -8}
+      - {x: 53, y: -8}
+      - {x: 8, y: -46}
+      - {x: 8, y: -139}
+      - {x: 9, y: -142}
+      - {x: 23, y: -145}
+      - {x: 144, y: -145}
+      - {x: 144, y: -61}
+      - {x: 138, y: -51}
+    - - {x: -104, y: 146}
+      - {x: -144, y: 88}
+      - {x: -144, y: 12}
+      - {x: -140, y: 6}
+      - {x: -40, y: 6}
+      - {x: -36, y: 25}
+      - {x: -36, y: 110}
+      - {x: -76, y: 146}
+    - - {x: 30, y: 145}
+      - {x: 17, y: 126}
+      - {x: 17, y: 87}
+      - {x: 67, y: 7}
+      - {x: 100, y: 7}
+      - {x: 137, y: 72}
+      - {x: 137, y: 144}
+      - {x: 135, y: 145}
+    physicsShape:
+    - - {x: -50, y: -90}
+      - {x: -41, y: -78}
+      - {x: -41, y: -76}
+      - {x: -50, y: -64}
+      - {x: -64, y: -46}
+      - {x: -79, y: -25}
+      - {x: -89, y: -10}
+      - {x: -93, y: -10}
+      - {x: -101, y: -22}
+      - {x: -114, y: -41}
+      - {x: -135, y: -69}
+      - {x: -141, y: -76}
+      - {x: -141, y: -78}
+      - {x: -136, y: -84}
+      - {x: -123, y: -100}
+      - {x: -107, y: -123}
+      - {x: -93, y: -144}
+      - {x: -89, y: -144}
+      - {x: -78, y: -129}
+      - {x: -72, y: -118}
+      - {x: -58, y: -100}
+    - - {x: 82, y: -107}
+      - {x: 80, y: -95}
+      - {x: 80, y: -97}
+      - {x: 84, y: -102}
+      - {x: 95, y: -112}
+      - {x: 108, y: -119}
+      - {x: 132, y: -112}
+      - {x: 140, y: -102}
+      - {x: 144, y: -92}
+      - {x: 144, y: -73}
+      - {x: 134, y: -56}
+      - {x: 121, y: -52}
+      - {x: 108, y: -45}
+      - {x: 109, y: -31}
+      - {x: 96, y: -14}
+      - {x: 90, y: -11}
+      - {x: 69, y: -11}
+      - {x: 62, y: -12}
+      - {x: 55, y: -16}
+      - {x: 44, y: -32}
+      - {x: 45, y: -52}
+      - {x: 28, y: -53}
+      - {x: 21, y: -55}
+      - {x: 10, y: -70}
+      - {x: 10, y: -95}
+      - {x: 21, y: -111}
+      - {x: 35, y: -116}
+      - {x: 61, y: -121}
+      - {x: 30, y: -138}
+      - {x: 30, y: -142}
+      - {x: 32, y: -144}
+      - {x: 122, y: -144}
+      - {x: 125, y: -142}
+      - {x: 121, y: -135}
+      - {x: 97, y: -128}
+    - - {x: -69, y: 40}
+      - {x: -56, y: 39}
+      - {x: -38, y: 50}
+      - {x: -38, y: 75}
+      - {x: -45, y: 88}
+      - {x: -82, y: 126}
+      - {x: -87, y: 142}
+      - {x: -89, y: 143}
+      - {x: -93, y: 143}
+      - {x: -108, y: 115}
+      - {x: -144, y: 79}
+      - {x: -144, y: 56}
+      - {x: -143, y: 50}
+      - {x: -134, y: 42}
+      - {x: -112, y: 39}
+      - {x: -98, y: 39}
+      - {x: -113, y: 22}
+      - {x: -133, y: 15}
+      - {x: -137, y: 13}
+      - {x: -138, y: 9}
+      - {x: -136, y: 7}
+      - {x: -44, y: 7}
+      - {x: -41, y: 12}
+      - {x: -79, y: 31}
+      - {x: -80, y: 45}
+    - - {x: 134, y: 101}
+      - {x: 136, y: 105}
+      - {x: 136, y: 120}
+      - {x: 134, y: 130}
+      - {x: 123, y: 141}
+      - {x: 113, y: 144}
+      - {x: 97, y: 144}
+      - {x: 87, y: 140}
+      - {x: 77, y: 122}
+      - {x: 74, y: 131}
+      - {x: 58, y: 144}
+      - {x: 37, y: 144}
+      - {x: 33, y: 141}
+      - {x: 30, y: 139}
+      - {x: 22, y: 132}
+      - {x: 18, y: 126}
+      - {x: 18, y: 106}
+      - {x: 19, y: 99}
+      - {x: 25, y: 89}
+      - {x: 35, y: 75}
+      - {x: 65, y: 34}
+      - {x: 74, y: 10}
+      - {x: 77, y: 10}
+      - {x: 81, y: 12}
+      - {x: 91, y: 34}
+      - {x: 115, y: 69}
+      - {x: 129, y: 89}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
